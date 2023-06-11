@@ -1,0 +1,19 @@
+{
+  "name": "directions-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@googlemaps/google-maps-services-js": "^3.3.31",
+    "axios": "^1.4.0",
+    "express": "^4.18.2",
+    "geolib": "^3.3.4",
+    "nodemon": "^2.0.22"
+  }
+}
